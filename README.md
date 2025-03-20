@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/vickkyavalos?style=social"> &nbsp;&nbsp;  
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vickkyavalos?style=social"> &nbsp;&nbsp; 
-![Profile Views](https://komarev.com/ghpvc/?username=vickkyavalos&color=blue&style=flat)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/vickkyavalos?style=social"> &nbsp;&nbsp;  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vickkyavalos?style=social"> &nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=vickkyavalos&color=blue&style=flat)
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
