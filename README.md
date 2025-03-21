@@ -4,13 +4,13 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-:credit_card: Mi nombre es Victoria Inés Avalos 
+:credit_card: Mi nombre es Victoria Inés Avalos.
 
-:school: Actualmente estoy estudiando Tecnicatura Universitaria en Desarrollo Web
+:school: Estoy estudiando la Tecnicatura Universitaria en Desarrollo Web.
 
-:books: Actualemente me encuentro enfocada en aprender Frontend
+:books: Actualmente me especializo en Frontend.
 
-:monocle_face: Me interesan la programación, el diseño web y descubrir nuevas tecnologías
+:monocle_face: Me apasionan la programación, el diseño web y explorar nuevas tecnologías.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
