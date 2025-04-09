@@ -8,8 +8,6 @@
 
 :school: Estoy estudiando la Tecnicatura Universitaria en Desarrollo Web.
 
-:books: Actualmente me especializo en Frontend.
-
 :monocle_face: Me apasionan la programación, el diseño web y explorar nuevas tecnologías.
 
 
