@@ -1,6 +1,6 @@
 # Hi there! 👋 Soy Victoria Inés Avalos
 
-### 🎨 FukkStack Developer en formación
+### 🎨 FullStack Developer en formación
 Estudiante de la **Tecnicatura Universitaria en Desarrollo Web**.
 Aunque mi formación es integral, mi verdadera pasión está en el **Frontend**: me encanta maquetar interfaces, cuidar la experiencia de usuario y dar vida a los diseños con código.
 
