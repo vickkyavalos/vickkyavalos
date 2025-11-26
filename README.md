@@ -1,47 +1,78 @@
-## Hi there 👋
+# Hi there! 👋 Soy Victoria Inés Avalos
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/vickkyavalos?style=social"> &nbsp;&nbsp;  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/vickkyavalos?style=social"> &nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=vickkyavalos&color=blue&style=flat)
+### 🎨 FukkStack Developer en formación
+Estudiante de la **Tecnicatura Universitaria en Desarrollo Web**.
+Aunque mi formación es integral, mi verdadera pasión está en el **Frontend**: me encanta maquetar interfaces, cuidar la experiencia de usuario y dar vida a los diseños con código.
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+---
 
-:credit_card: Mi nombre es Victoria Inés Avalos.
+🔭 **Actualmente aprendiendo:** Hacking Ético & Ciberseguridad (Pentesting, Redes).
 
-:school: Estoy estudiando la Tecnicatura Universitaria en Desarrollo Web.
+---
+### 🛠️ Tech Stack
 
-:monocle_face: Me apasionan la programación, el diseño web y explorar nuevas tecnologías.
+#### 🎨 Frontend Core & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/GreenSock_(GSAP)-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
 
+#### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+#### 🔧 Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
+---
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+### 🚀 Proyectos Destacados
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickkyavalos&layout=compact&show_icon=true&theme=algolia" alt="vickkyavalosn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=vickkyavalos&layout=compact&show_icon=true&theme=algolia" alt="vickkyavalos-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vickkyavalos&theme=algolia&background=0d1117&hide_border=true" />
- 
-</div>
+| Proyecto | Descripción | Stack | Estado |
+| :--- | :--- | :--- | :--- |
+| **🔮 Proyecto Astrología** | Aplicación web para consultar cartas natales y tránsitos. | `JS` `HTML` `CSS` | 🚧 *En Desarrollo* |
+| **🎓 Proyectos Universitarios** | Colección de trabajos prácticos y desafíos técnicos de la carrera. | `Java` `Python` `JS` | ✅ *Completado* |
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="mailto:inessavalos14@gmail.com" >
-    <img align="center" alt="VickyAvalos| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/victoria-avalos-092768253//" target="_blank">
-    <img align="center" alt="VickyAvalos | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/aa.vickk/" target="_blank">
-    <img align="center" alt="VickyAvalos | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  
-<p> 
-<div align="center">
-  Thanks for watching my profile! :wink: <br/>
-</div>
+ <img src="https://streak-stats.demolab.com?user=vickkyavalos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=vickkyavalos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vickkyavalos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me
+<p align="left">
+  <a href="LINK_A_TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">Thanks for visiting! ✨</p>
