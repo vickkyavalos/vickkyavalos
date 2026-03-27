@@ -1,12 +1,11 @@
 # Hi there! 👋 Soy Victoria Inés Avalos
 
 ### 🎨 FullStack Developer en formación
-Estudiante de la **Tecnicatura Universitaria en Desarrollo Web**.
-Aunque mi formación es integral, mi verdadera pasión está en el **Frontend**
+Estudiante de la **Tecnicatura Universitaria en Desarrollo Web**. Me apasiona el aprendizaje continuo y la exploración de nuevas tecnologías
 
 ---
 
-🔭 **Actualmente aprendiendo:** Workflow Automation.
+🔭 **Actualmente aprendiendo:** Workflow Automation (n8n). 
 
 ---
 ### 🛠️ Tech Stack
