@@ -6,7 +6,7 @@ Aunque mi formación es integral, mi verdadera pasión está en el **Frontend**
 
 ---
 
-🔭 **Actualmente aprendiendo:** Hacking Ético & Ciberseguridad (Pentesting, Redes).
+🔭 **Actualmente aprendiendo:** Workflow Automation.
 
 ---
 ### 🛠️ Tech Stack
